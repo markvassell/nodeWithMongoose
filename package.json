@@ -1,0 +1,18 @@
+{
+  "name": "exploration3",
+  "version": "1.0.0",
+  "description": "Application for exploration 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mark Vassell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "cors": "*"
+   }
+}
